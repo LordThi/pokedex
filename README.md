@@ -1,0 +1,2 @@
+# pokedex
+First try-project
