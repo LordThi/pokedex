@@ -1,0 +1,14 @@
+.pokedex-container {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+
+.pokemon-container {
+    width: 100px;
+}
+
+.pokemon-index-img {
+    max-width: 100%;
+    max-height: 100%;
+}
